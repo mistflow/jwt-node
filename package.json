@@ -1,6 +1,6 @@
 {
   "name": "@mistflow/jwt-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JWT authentication library",
   "main": "src/jwt.js",
   "scripts": {
