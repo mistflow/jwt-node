@@ -1,0 +1,18 @@
+{
+  "name": "@mistflow/jwt-node",
+  "version": "1.0.0",
+  "description": "A JWT authentication library",
+  "main": "src/jwt.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "keywords": ["jwt", "authentication"],
+  "author": "mistflow",
+  "license": "MIT"
+}
